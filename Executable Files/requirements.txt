@@ -1,0 +1,11 @@
+Flask
+tensorflow
+numpy
+matplotlib
+scikit-learn
+seaborn
+pillow
+gunicorn
+requests
+opencv-python-headless
+gdown
