@@ -120,7 +120,7 @@ Then open http://127.0.0.1:5000 in your browser.
 | Durga Mallula  | Team Lead | 
 |   Koppineedi Lakshmi prasanna     | Team Member    | 
 |    Pramila Kumpatla | Team member  |
-|   Vijay Thota | Team member | 
+|   Kishore Thota | Team member | 
 
 ## 🎯 Use Cases-
 🏭 Factories: Automated sorting of fresh vs rotten produce
